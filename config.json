@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "http://content.warframe.com/dynamic/trialStats.php",
+    "http://content.warframe.com/dynamic/trialNightmareStats.php",
+    "http://content.warframe.com/dynamic/trialGolemStats.php"
+  ],
+  "delay": 15000,
+  "logFolder": "logs",
+  "watchedPlayers": [
+    "nspacestd"
+  ]
+}
